@@ -1,11 +1,17 @@
-title
+h1
 {
     color:red;
     font-weight: bold;
+    font-size: x-large;
 }
-
+h2
+{
+    color:red;
+    font-weight: bold;
+    font-size: xx-large;
+}
 .tabla {
     font-style: "Arial";
-    padding: 10px;
-    margin: 15px;
+    padding: 100px;
+    margin: 150px;
 }
